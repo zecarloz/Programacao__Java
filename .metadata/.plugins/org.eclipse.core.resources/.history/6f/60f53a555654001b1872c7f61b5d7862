@@ -1,0 +1,17 @@
+package cursojava.executavel;
+
+public class PrimeiraClasseJava {
+
+	public static void main(String[] args) {
+		int mediaAluno = 60;
+		String nome = "José"
+		if (mediaAluno >= 70) {
+			System.out.println("Parabéns vc está aprovado");
+
+		} else if (mediaAluno < 70) {
+			System.out.println(nome + "vc está reprovado");
+		}
+
+	}
+
+}
